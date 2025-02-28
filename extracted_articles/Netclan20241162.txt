@@ -1,0 +1,3 @@
+Title: Budget, Sales KPI Dashboard using Power BI
+
+ PresentationMapDashboardAPI Integration  KibanaGoogle Data StudioMicrosoft ExcelMicrosoft Power BI JavaScriptSQLPythonDAX 
