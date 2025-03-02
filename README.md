@@ -1,0 +1,1 @@
+NLP - Sentiment Scoring is a project that utilizes Natural Language Processing (NLP) techniques to analyze and score sentiments in text data. The project is implemented primarily using Jupyter Notebooks and Python, making it versatile and suitable for various sentiment analysis tasks.
